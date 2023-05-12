@@ -1,10 +1,13 @@
-Welcome to our project! Our dashboard frontend is built using React and various libraries such as Material UI, React Router, Recharts, FullCalendar, and more. It offers both light and dark mode options, making it easy to work efficiently at any time of the day.
+Welcome to my project! This dashboard frontend is built using React and various libraries such as Material UI, React Router, Recharts, FullCalendar, and more. It offers both light and dark mode options, making it easy to work efficiently at any time of the day.
 
-Our dashboard includes a range of features to help you stay organized and productive. Keep track of your team's progress with insightful charts and stats, manage your busy schedule with a sleek and easy-to-use calendar, and stay connected with your contacts and clients with our comprehensive contact and invoice tracking features.
+It includes a range of features to help you stay organized and productive. Keep track of your team's progress with insightful charts and stats, manage your busy schedule with a sleek and easy-to-use calendar, and stay connected with your contacts and clients with our comprehensive contact and invoice tracking features.
 
 You can also manage your personal information and preferences with ease using our user profile form. The project is fully customizable, so you can add or remove features as needed to suit your unique requirements.
 
-We've included images of both light and dark modes so you can see what the dashboard looks like in each mode. We hope you find our project useful and easy to use. Feel free to customize it to fit your needs and let us know if you have any feedback or suggestions for improvement.
+I have included images of both light and dark modes so you can see what the dashboard looks like in each mode. We hope you find this project useful and easy to use. Feel free to customize it to fit your needs and let us know if you have any feedback or suggestions for improvement.
+
+A live view of this dashboard is available at this link:
+https://anasurrehman.github.io/Dashboard/
 
 #Dark Mode Screens
 
