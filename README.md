@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+Welcome to our project! Our dashboard frontend is built using React and various libraries such as Material UI, React Router, Recharts, FullCalendar, and more. It offers both light and dark mode options, making it easy to work efficiently at any time of the day.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our dashboard includes a range of features to help you stay organized and productive. Keep track of your team's progress with insightful charts and stats, manage your busy schedule with a sleek and easy-to-use calendar, and stay connected with your contacts and clients with our comprehensive contact and invoice tracking features.
 
-## Available Scripts
+You can also manage your personal information and preferences with ease using our user profile form. The project is fully customizable, so you can add or remove features as needed to suit your unique requirements.
 
-In the project directory, you can run:
+We've included images of both light and dark modes so you can see what the dashboard looks like in each mode. We hope you find our project useful and easy to use. Feel free to customize it to fit your needs and let us know if you have any feedback or suggestions for improvement.
 
-### `npm start`
+#Dark Mode Screens
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![DashboardDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/ca4f9a72-f397-48a1-8958-487c92f87385)
+![DashboardDarkExpanded](https://github.com/AnasurRehman/Dashboard/assets/52008256/fd75749b-8c23-4581-a430-1a8aac1de4dc)
+![TeamDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/f2b9c5dc-46c1-4d83-ab5e-800965c15a18)
+![ContactDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/5d2aeff4-2e22-40fc-a9d3-5292110ffec9)
+![InvoicesDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/52d670e3-104f-4c04-9e7d-439fc56de5a3)
+![ProfileDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/760b5057-586e-4704-878d-8c29156a09a9)
+![CalendarDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/d56bda36-4cc9-4129-b59d-71471639f6e1)
+![FaqDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/0136d6f1-8abb-4d00-963c-282a12f5d361)
+![BarChartDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/427cecc4-7799-4cf5-a9b6-80625c9a3610)
+![LineChartDark](https://github.com/AnasurRehman/Dashboard/assets/52008256/cc9315cc-6248-4156-9df1-1841db5323c6)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#Light Mode Screens
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![DashboardLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/fcba0ac1-cb9f-4435-a0a2-7827893d6adb)
+![DashboardLightExpanded](https://github.com/AnasurRehman/Dashboard/assets/52008256/644c447f-e352-47aa-808f-1135bf863583)
+![TeamLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/3f447ccc-9a36-4447-8194-66745f2351ef)
+![ContactLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/6fd3c622-ed39-4042-bd77-d9aa19ef849c)
+![InvoicesLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/3996bf04-617a-4655-a9d0-5e8a61b3834c)
+![ProfileLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/3a848004-091f-467c-a7f2-b99aa98af091)
+![CalendarLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/51d02f44-0876-4efb-a63c-00cb4db6b42c)
+![FaqLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/fa1715f4-4f7b-437e-ba50-8cc365a9803f)
+![BarChartLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/8e8949b7-185a-4bbc-8ab3-9aa9974b23e6)
+![LineChartLight](https://github.com/AnasurRehman/Dashboard/assets/52008256/bf3026c7-8a28-4472-930e-7d2311da89ef)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ready to dive into our project? Here's how to get started:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clone the project repository to your local machine.
+Install the necessary dependencies by running "npm -i" in your terminal. This will ensure that you have all the required packages and libraries installed before starting the application.
+Once the installation is complete, start the project by running "npm start". You'll see our dashboard frontend come to life in your browser!
+That's it - just three simple steps to get started with our project. So grab a cup of coffee, sit back, and start exploring all the features and functionalities of our dashboard. Happy programming!
