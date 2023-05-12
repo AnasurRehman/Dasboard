@@ -36,7 +36,10 @@ We've included images of both light and dark modes so you can see what the dashb
 
 Ready to dive into our project? Here's how to get started:
 
-Clone the project repository to your local machine.
-Install the necessary dependencies by running "npm -i" in your terminal. This will ensure that you have all the required packages and libraries installed before starting the application.
-Once the installation is complete, start the project by running "npm start". You'll see our dashboard frontend come to life in your browser!
-That's it - just three simple steps to get started with our project. So grab a cup of coffee, sit back, and start exploring all the features and functionalities of our dashboard. Happy programming!
+1) Clone the project repository to your local machine.
+
+2) Install the necessary dependencies by running "npm -i" in your terminal. This will ensure that you have all the required packages and libraries installed before starting the application.
+
+3) Once the installation is complete, start the project by running "npm start". You'll see our dashboard frontend come to life in your browser!
+   That's it - just three simple steps to get started with our project. 
+   So grab a cup of coffee, sit back, and start exploring all the features and functionalities of our dashboard. Happy programming!
